@@ -1,6 +1,8 @@
 # COVID-19 Biomarker Discovery
 Finding a lab-ready 10-protein signature using Olink proteomics.
 
+![](img/volcano.png)
+
 ## The Strategy
 * **Goal:** Identify markers that actually work in a lab setting.
 * **Selection:** Prioritized **abundant** proteins with **strong Log2FC**. This ensures detection by standard tests, though Olink’s **PEA (PCR-amplified)** method remains the gold standard for sensitivity.
